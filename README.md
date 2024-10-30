@@ -4,7 +4,8 @@ The Logistic Regression problem of "Credit Card Fraud Detection" on kaggle conte
 ----------------------------------------------------------------------------------------------------
 The data is download from the kaggle "Credit Card Fraud Detection" contest  
 ( https://www.kaggle.com/competitions/credit-card-fraud-prediction/data )  
-To see more details and result pictures, please check the " HW2 LogisticRegression.pdf " file.
+To see more details and result pictures, please check the  
+" HW2 LogisticRegression.pdf " file.
 ----------------------------------------------------------------------------------------------------
 
 # 這是關於kaggle上Credit Card Fraud Detection的logestic regression問題
