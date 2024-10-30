@@ -2,6 +2,8 @@
 The Logistic Regression problem of "Credit Card Fraud Detection" on kaggle contest.(late submission)
 
 ----------------------------------------------------------------------------------------------------
+To see more details, please check the .pdf file
+----------------------------------------------------------------------------------------------------
 
 # 這是關於kaggle上Credit Card Fraud Detection的logestic regression問題
 # prompt1 :
